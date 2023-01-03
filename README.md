@@ -37,18 +37,20 @@ I am a Flutter Developer in the north of France.
 - ⚡ I love chocolate.
 
 
-### 🛠 Languages
+### 🛠 Technical stack
 
 <!-- Languages section start -->
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" itle="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%2302569B.svg?style=for-the-badge&logo=Ionic&logoColor=white&color=blue)
+![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=for-the-badge&logo=Angular&color=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2302569B.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow)
+![NestJs](https://img.shields.io/badge/NestJs-%2302569B.svg?style=for-the-badge&logo=NestJs&logoColor=white&color=red)
+![Firebase](https://img.shields.io/badge/Firebase-%2302569B.svg?style=for-the-badge&logo=Firebase&color=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2302569B.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
+![GitLab](https://img.shields.io/badge/GitLab-%2302569B.svg?style=for-the-badge&logo=GitLab&color=white)
+![Jira](https://img.shields.io/badge/Jira-%2302569B.svg?style=for-the-badge&logo=Jira)
+![Xcode](https://img.shields.io/badge/Xcode-%2302569B.svg?style=for-the-badge&logo=Xcode&color=white)
 <!-- Languages section end -->
 
 ### 🔥 GitHub Statistics
