@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About me 
 
-I am a Flutter Developer in the north of France.
+I am a French Flutter Developer.
 
-- 🔭 I’m working as a Software Engineer.
-- 🕐 In my free time, I like to read technical articles.
+- 🔭 I’m working as a Software Developper.
+- 🕐 In my free time, I like to read technical articles in order to deepen my knowledge.
 - 🎓 I like to challenge myself through certifications (PSD 1, icSM, AFD-200, MTA 98-382, etc.).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florentin-bouchez-258455131/)
 - ⚡ I love chocolate.
