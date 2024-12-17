@@ -33,7 +33,7 @@ I am a French Flutter Developer.
 - 🔭 I’m working as a Software Developper.
 - 🕐 In my free time, I like to read technical articles in order to deepen my knowledge.
 - 🎓 I like to challenge myself through certifications (PSD 1, icSM, AFD-200, MTA 98-382, etc.).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florentin-bouchez-258455131/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florentin-bouchez-258455131/).
 - ⚡ I love chocolate.
 
 
