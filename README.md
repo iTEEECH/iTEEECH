@@ -41,6 +41,7 @@ I am a French Flutter developer.
 <!-- Technical stack start -->
 ![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat-square&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-white.svg?style=flat-square&logo=Kotlin&logoColor=7F52FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%2302569B.svg?style=flat-square&logo=Ionic&logoColor=white&color=blue)
@@ -49,6 +50,8 @@ I am a French Flutter developer.
 ![NestJs](https://img.shields.io/badge/NestJs-%23E0234E.svg?style=flat-square&logo=Nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1E1F20.svg?style=flat-square&logo=Firebase&logoColor=FFA611)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F9185B?style=flat-square&logo=Appwrite&logoColor=white)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=Awsamplify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-white.svg?style=flat-square&logo=GitLab)
 ![Codemagic](https://img.shields.io/badge/Codemagic-white.svg?style=flat-square&logo=Codemagic)
